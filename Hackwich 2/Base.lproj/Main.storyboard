@@ -87,6 +87,7 @@
                     <navigationItem key="navigationItem" id="5Qf-F7-fnC"/>
                     <connections>
                         <outlet property="changeColorButtonPressed" destination="8bC-Xf-vdC" id="EfX-qt-bW6"/>
+                        <outlet property="firstLabel" destination="XTc-Ti-Uz3" id="ejl-bb-wwR"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
