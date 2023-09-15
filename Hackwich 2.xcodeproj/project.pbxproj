@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CBAA33172AB3D795005ED7CD /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBAA33162AB3D795005ED7CD /* secondViewController.swift */; };
 		CBB87D572AA7EC1900E0F05C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB87D562AA7EC1900E0F05C /* AppDelegate.swift */; };
 		CBB87D592AA7EC1900E0F05C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB87D582AA7EC1900E0F05C /* SceneDelegate.swift */; };
 		CBB87D5B2AA7EC1900E0F05C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB87D5A2AA7EC1900E0F05C /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CBAA33162AB3D795005ED7CD /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 		CBB87D532AA7EC1900E0F05C /* Hackwich 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hackwich 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBB87D562AA7EC1900E0F05C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CBB87D582AA7EC1900E0F05C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				CBB87D582AA7EC1900E0F05C /* SceneDelegate.swift */,
 				CBB87D5A2AA7EC1900E0F05C /* ViewController.swift */,
 				CBB87D5C2AA7EC1900E0F05C /* Main.storyboard */,
+				CBAA33162AB3D795005ED7CD /* secondViewController.swift */,
 				CBB87D5F2AA7EC1A00E0F05C /* Assets.xcassets */,
 				CBB87D612AA7EC1A00E0F05C /* LaunchScreen.storyboard */,
 				CBB87D642AA7EC1A00E0F05C /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CBAA33172AB3D795005ED7CD /* secondViewController.swift in Sources */,
 				CBB87D5B2AA7EC1900E0F05C /* ViewController.swift in Sources */,
 				CBB87D572AA7EC1900E0F05C /* AppDelegate.swift in Sources */,
 				CBB87D592AA7EC1900E0F05C /* SceneDelegate.swift in Sources */,
